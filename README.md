@@ -1,5 +1,8 @@
 One of the oldest thing I have done. Just for training.
 
+It is a software with gui based on Python2 and PyQt who controls an Arduino UNO board connected to an RGB strip led.
+
+
 Hardware needed:
 -Arduino UNO Board
 -Breadboard
