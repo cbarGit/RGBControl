@@ -4,17 +4,19 @@ It is a software with gui based on Python2 and PyQt who controls an Arduino UNO 
 
 
 Hardware needed:
--Arduino UNO Board
--Breadboard
--Strip Led RGB
--Arduino wires M/M M/F
--3 N-Channel MOSFET
+- Arduino UNO Board
+- Breadboard
+- Strip Led RGB
+- Arduino wires M/M M/F
+- 3 N-Channel MOSFET
 
 Software:
 I have took some code on the internet from the user "Jkm3141"
 http://forum.arduino.cc/index.php?topic=8332.0
 on the arduino forum.
+
 Icons are from Faenza Icon of Tiheum. http://tiheum.deviantart.com/art/Faenza-Icons-173323228
+
 I have expanded the project to learn something with Arduino, Python, PyQt.
 This is what it came out.
 
